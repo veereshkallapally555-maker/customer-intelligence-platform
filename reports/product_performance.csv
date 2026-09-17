@@ -1,0 +1,11 @@
+product_id,product_name,category,units_sold,revenue
+P0012,Product 12,Home,100,820292.4
+P0069,Product 69,Clothing,95,777420.4
+P0038,Product 38,Sports,90,746000.0
+P0027,Product 27,Electronics,84,718555.2
+P0028,Product 28,Home,84,677932.75
+P0053,Product 53,Beauty,83,658314.0
+P0072,Product 72,Clothing,73,631436.55
+P0088,Product 88,Beauty,78,629360.55
+P0039,Product 39,Sports,93,604164.3
+P0041,Product 41,Home,70,591552.0
